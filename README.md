@@ -43,6 +43,11 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
+# Hot reload mode for super fast development
+$ npm run webpack (on terminal 1)
+$ npm run start:hot (on terminal 2)
+```
+
 # production mode
 $ npm run start:prod
 ```
